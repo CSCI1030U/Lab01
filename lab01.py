@@ -7,3 +7,6 @@ def main():
     print(f'cost_per_item = ${cost_per_item:0.2f}') # a sample for you to use for the other prices
 
     # YOUR CODE TO PRINT THE TOTALS GOES HERE
+
+if __name__ == "__main__":
+    main()

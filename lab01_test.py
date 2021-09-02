@@ -7,7 +7,7 @@ def test_main(capsys):
     captured = capsys.readouterr()
     sys.stderr.write('actual output:\n')
     sys.stderr.write(captured.out + '\n')
-    correct_output = 'cost_per_item = $19.99\nquantity = 5\nsubtotal_cost = $99.95\ntax = $12.99\ntotal_cost = $112.94'
+    correct_output = 'cost_per_item = $19.99\nquantity = 5\nsubtotal_cost = $99.95\ntax = $12.99\ntotal_cost = $112.94\n'
 
     sys.stderr.write('correct output:\n')
     sys.stderr.write(correct_output + '\n')
