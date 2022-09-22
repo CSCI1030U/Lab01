@@ -14,9 +14,15 @@ git clone https://github.com/CSCI1030U/lab01-rana-muniz
 
 Be sure to change directory to a place where the rest of your CSCI1030U labs are stored, first, so that this command copies your lab assignment starter code into the proper place.
 
-Install pytest, which is a module for Python that allows you to verify that your code is correct before you submit, using the following command:
+Next we'll install pytest, which is a module for Python that allows you to verify that your code is correct before you submit.
+
+For Linux users, open a terminal and use this command (the MacOS command is similar):
 
 `sudo -H pip3 install pytest`
+
+For Windows users, open an Anaconda Prompt from the start menu and use this command:
+
+`pip install pytest`
 
 If you have previously installed `pytest`, then you can skip this step.
 
