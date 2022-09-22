@@ -31,7 +31,7 @@ If you have previously installed `pytest`, then you can skip this step.
 
 ## Instructions
 
-In this lab, you will write edit the `lab01.py` file that declares a few variables, and modify the code so that it calculates some new variable values using expressions, and prints the values of those variables.
+In this lab, you will edit the `lab01.py` file that declares a few variables, and modify the code so that it calculates some new variable values using expressions, and prints the values of those variables.
 
 
 ### Part 1
