@@ -6,7 +6,9 @@ _**Note:** The use of an auto-grading system was decided in order to ensure that
 
 ## Getting Started
 
-Be sure that you have accepted the assignment invitation within GitHub Classroom (by clicking on the link provided in the lab assignment on Canvas), before you proceed.  You want to clone your own copy of the repository (not the original, since you can't write to that repository).  The command to do so will look something like this:
+Be sure that you have accepted the assignment invitation within GitHub Classroom (by clicking on the link provided in the lab assignment on Canvas), before you proceed.  You want to clone your own copy of the repository (not the original, since you can't write to that repository).  For this, we will first need to install git.  Use the [instructions on Git's own website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to do this.
+
+The command to make a local close of the repository will look something like this:
 
 ```
 git clone https://github.com/CSCI1030U/lab01-rana-muniz
