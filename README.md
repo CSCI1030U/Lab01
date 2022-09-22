@@ -6,6 +6,14 @@ _**Note:** The use of an auto-grading system was decided in order to ensure that
 
 ## Getting Started
 
+Be sure that you have accepted the assignment invitation within GitHub Classroom (by clicking on the link provided in the lab assignment on Canvas), before you proceed.  You want to clone your own copy of the repository (not the original, since you can't write to that repository).  The command to do so will look something like this:
+
+```
+git clone https://github.com/CSCI1030U/lab01-rana-muniz
+```
+
+Be sure to change directory to a place where the rest of your CSCI1030U labs are stored, first, so that this command copies your lab assignment starter code into the proper place.
+
 Install pytest, which is a module for Python that allows you to verify that your code is correct before you submit, using the following command:
 
 `sudo -H pip3 install pytest`
