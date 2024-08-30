@@ -31,7 +31,7 @@ If you have previously installed `pytest`, then you can skip this step.
 
 ## Instructions
 
-In this lab, you will edit the `lab01.py` file that declares a few variables, and modify the code so that it calculates some new variable values using expressions, and prints the values of those variables.
+In this lab, you will edit the `lab01.py` file that declares a few variables, and modify the code according to the instructions that follow.  The solution to all of the parts of this lab are to be placed in this same file, in the order given.
 
 
 ### Part 1
@@ -60,7 +60,13 @@ print(f'cost_per_item = ${cost_per_item:0.2f}')
 
 _**Note:** The output has to match exactly, so be sure to put exactly one space on each side of the `=` sign, and there will be a newline after each variable output (as is the default for `print()`)._
 
+### Part 3
 
+In the final section within `lab01.py`, there is a simple program that contains an error.  So that it doesn't interfere with your previous code, it has been commented out.  Uncomment this code (e.g. by selecting it and hitting CTRL-/ on Windows/Linux, or Command-/ on MacOS).  Identify the type of error, and the line number where the error has occurred.  Search for this error message on the web, and learn about what causes it (e.g. from a Stack Overflow post).  Ask ChatGPT or another free AI to explain the error for you.
+
+Once you have collected enough information about the error, find a way to fix the error so that it produces the expected output, but doesn't use any f-strings.
+
+_Note: It is expected that the result of the calculation has more than 2 decimal places.  That is fine (and expected) for the purposes of this lab assignment._
 
 ## Verifying Correctness
 
