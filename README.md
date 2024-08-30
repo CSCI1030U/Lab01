@@ -11,7 +11,7 @@ Be sure that you have accepted the assignment invitation within GitHub Classroom
 The command to make a local close of the repository will look something like this:
 
 ```
-git clone https://github.com/CSCI1030U/lab01-rana-muniz
+git clone https://github.com/CSCI1030U/lab-01-rana-muniz
 ```
 
 Be sure to change directory to a place where the rest of your CSCI1030U labs are stored, first, so that this command copies your lab assignment starter code into the proper place.
@@ -72,7 +72,7 @@ _Note: It is expected that the result of the calculation has more than 2 decimal
 
 Run the pre-written tests that verify that your lab assignment code passes, using the following command:
 
-`pytest --capture=sys`
+`pytest`
 
 Examine the output closely.  There should be hints about what went wrong, if any of the tests fail.  If you are struggling to figure it out, you can always ask for help (see __Getting Help__ for details).
 
