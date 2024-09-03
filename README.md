@@ -74,7 +74,7 @@ Run the pre-written tests that verify that your lab assignment code passes, usin
 
 `pytest`
 
-_Note: Be sure that you are in the correct directory, where your code (`lab02.py`) is located, or this command will not execute the tests._
+_Note: Be sure that you are in the correct directory, where your code (`lab01.py`) is located, or this command will not execute the tests._
 
 Examine the output closely.  There should be hints about what went wrong, if any of the tests fail.  If you are struggling to figure it out, you can always ask for help (see __Getting Help__ for details).
 
